@@ -60,5 +60,4 @@ L’application est divisée en **deux modules Maven** :
 ## 🖥️ Déploiement
 1. Compiler le projet avec Maven  
 2. Déployer les deux modules (`.jar` et `.war`) sur **WildFly**  
-3. Accéder à l’application via :
-    http://localhost:8080/gestion-etudiants-web
+3. Accéder à l’application 
